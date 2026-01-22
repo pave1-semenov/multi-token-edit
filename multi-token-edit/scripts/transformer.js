@@ -785,6 +785,7 @@ export async function editPreviewPlaceables(
         await transformer.update({
           ignoreLinks: true,
           animate: false,
+          noHook: true,
           ...context,
         });
 
