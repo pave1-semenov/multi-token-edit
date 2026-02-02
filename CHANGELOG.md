@@ -1,3 +1,24 @@
+# 2.7.8
+
+- Fixed `Revert` header control not rendering on `Scenescape` configuration form
+- Fixed `Scenescape: Auto-flip` control not appearing on `Prototype Token` configuration form
+
+# 2.7.7
+
+- Fixed `Monks Active Tile` insert fields `Actions` and `Files` overwriting data
+
+# 2.7.6
+
+**Scenescape**
+
+- Added new setting: `Misc` > `Hide Border`
+  - When enabled placeable border will no longer be shown on select/control
+- Configuration window has been updated to AppV2
+
+**Misc.**
+
+- Scene Not Found error prompt updated to AppV2
+
 # 2.7.5
 
 - Fixed `inputChangeCallback` not being called on `Generic` forms
